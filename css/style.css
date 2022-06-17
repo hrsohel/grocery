@@ -23,7 +23,7 @@
    color: #333;
 }
 .responsive {
-    overflow-x: hidden;
+    overflow-x: auto;
 }
 .storage table tr:nth-child(even), #product_list tr:nth-child(even) {
     background-color: rgb(255, 246, 228);
